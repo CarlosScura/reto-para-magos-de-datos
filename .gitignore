@@ -1,0 +1,10 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Datos descargados
+archive.zip
+
+# Archivos generados por Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
