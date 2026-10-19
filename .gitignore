@@ -4,6 +4,7 @@ venv/
 
 # Datos descargados
 archive.zip
+data1-formateado.md
 
 # Archivos generados por Python y Jupyter
 __pycache__/
