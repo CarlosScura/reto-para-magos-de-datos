@@ -45,7 +45,7 @@ Los dos notebooks siguen el mismo recorrido:
 
 ## Tecnologías
 
-Python [COMPLETAR versión], pandas, NumPy, Matplotlib, Seaborn y Jupyter.
+Python 3.13, pandas, NumPy, Matplotlib, Seaborn y Jupyter.
 
 ## Cómo correrlo
 
@@ -75,4 +75,4 @@ Abrí cada notebook y ejecutá todas las celdas (*Restart and Run All*). Los dat
 **Fede Alarcón Scura** — Estudiante de Penguin Academy  
 Challenge desarrollado como parte del programa de especialización en Data.
 
-- [`Peril de Kaggel`](https://www.kaggle.com/fedealarcnscura)
+- [`Perfil de Kaggel`](https://www.kaggle.com/fedealarcnscura)
